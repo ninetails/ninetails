@@ -10,6 +10,10 @@ Frontend is communication. It’s crucial to give importance to accessibility, b
 
 My main stack is JavaScript (and some knowledge on TypeScript). I also programmed in PHP, Flutter, Vanilla JavaScript (without frameworks, with native APIs like browser) and some Node.js backend and tooling. Rarely I also programmed in Ionic, Go, Makefile, some minor bashscripts and done some code review on C#.
 
+#### Why I don't have so many public repositories?
+
+I really like to save my work and personal things here on GitHub but as I'm a trans person now, I don't want to show any repo with my legal name on commits.
+
 ### :brazil:
 
 Sou a Nina, uma pessoa trans não binária. Também sou desenvolvedora frontend com conhecimentos em ecossistemas React e tooling e estou há mais de 15 anos na área de tecnologia. Já passei por fintechs, um jornal de grande circulação e ultimamente em grandes ecommerces, inclusive como Tech Lead numa delas.
@@ -24,16 +28,23 @@ Gosto de acompanhar tendências de mercado, novas ferramentas e frameworks, tecn
 
 (Nina Kitsu é meu nome social e nenhum ex-coworker irá me conhecer por este nome pois a mudança foi recente. Caso necessite realmente buscar referências sobre mim, me explique a necessidade que passarei meu nome legal)
 
-## My GitHub Stats
+#### Por que não possuo repositórios públicos?
+
+Como minha transição foi recente e apesar de não me incomodar tanto com o uso meu nome civil por não ser binária, ainda prefiro optar por não mostrá-lo aqui. E com isso inclui assinaturas de commits.
+
+## GitHub Stats
 
 ![My card](https://github-readme-stats.vercel.app/api?username=ninetails&theme=dark&show_icons=true)
 
-## My Social Medias
+## Skills
 
-[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="20" height="20">&nbsp;&nbsp;&nbsp;@SelphieAhri](https://twitter.com/SelphieAhri)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black) ![Shellscript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="20" height="20">:us:&nbsp;&nbsp;&nbsp;/ninetails](https://www.linkedin.com/in/ninetails/)
+## Social Media
 
-[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="20" height="20">:brazil:&nbsp;&nbsp;&nbsp;/ninetails](https://www.linkedin.com/in/ninetails/?locale=pt_BR)
-
-[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="20">&nbsp;&nbsp;&nbsp;/ninetails](https://dev.to/ninetails)
+| &nbsp; | Link |
+| --- | --- |
+| <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="20" height="20"> | [@SelphieAhri](https://twitter.com/SelphieAhri) |
+| <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="20" height="20">:us: | [/ninetails](https://www.linkedin.com/in/ninetails/) |
+| <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="20" height="20">:brazil: | [/ninetails](https://www.linkedin.com/in/ninetails/?locale=pt_BR) |
+| <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="20"> | [/ninetails](https://dev.to/ninetails) |
