@@ -30,9 +30,9 @@ Gosto de acompanhar tendências de mercado, novas ferramentas e frameworks, tecn
 
 (Nina Kitsu é meu nome social e nenhum ex-coworker irá me conhecer por este nome pois a mudança foi recente. Caso necessite realmente buscar referências sobre mim, me explique a necessidade que passarei meu nome legal)
 
-#### Por que não possuo repositórios públicos?
+#### Por que poucos repositórios públicos?
 
-Como minha transição foi recente, ainda prefiro optar por não mostrá-lo aqui. E com isso privei todos os repositórios pois meu nome civil constava nos commits.
+Como eu fiz meu nome social, prefiro ser chamada desta forma e foi um acontecimento recente, privei todos os repositórios que tinham meu nome civil na assinatura do commit.
 
 ## GitHub Stats
 
