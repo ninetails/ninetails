@@ -16,7 +16,9 @@ I really like to save my work and personal things here on GitHub but as I'm a tr
 
 ### :brazil:
 
-Sou a Nina, uma pessoa trans não binária. Também sou desenvolvedora frontend com conhecimentos em ecossistemas React e tooling e estou há mais de 15 anos na área de tecnologia. Já passei por fintechs, um jornal de grande circulação e ultimamente em grandes ecommerces, inclusive como Tech Lead numa delas.
+Olá, meu nome é Nina Kitsu e sou uma pessoa transgênero não binária (agênerofluída). :transgender_flag:
+
+Também sou uma pessoa desenvolvedora frontend com conhecimentos em ecossistemas React e tooling. Estou há mais de 15 anos na área de tecnologia. Já passei por fintechs, um jornal de grande circulação e ultimamente em grandes ecommerces, inclusive como Tech Lead numa delas.
 
 Para mim, frontend vai muito além de código. Comunicação não é eficaz sem uma boa semântica, pensamento em inclusão e acessibilidade. E tanto o produto quanto o código possuem mais valor para empresa quando documentados e possuindo automatizações que facilitem o desenvolvimento auxilie em abstrair tarefas triviais. Também estive bastante envolvida em processos como revisão de código (Code Review).
 
