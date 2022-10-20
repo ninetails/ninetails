@@ -32,7 +32,7 @@ Gosto de acompanhar tendências de mercado, novas ferramentas e frameworks, tecn
 
 #### Por que não possuo repositórios públicos?
 
-Como minha transição foi recente, ainda prefiro optar por não mostrá-lo aqui. E com isso privei todos os repositórios pois meu nome constava nos commits.
+Como minha transição foi recente, ainda prefiro optar por não mostrá-lo aqui. E com isso privei todos os repositórios pois meu nome civil constava nos commits.
 
 ## GitHub Stats
 
