@@ -30,7 +30,7 @@ Gosto de acompanhar tendências de mercado, novas ferramentas e frameworks, tecn
 
 #### Por que não possuo repositórios públicos?
 
-Como minha transição foi recente e apesar de não me incomodar tanto com o uso meu nome civil por não ser binária, ainda prefiro optar por não mostrá-lo aqui. E com isso inclui assinaturas de commits.
+Como minha transição foi recente, ainda prefiro optar por não mostrá-lo aqui. E com isso privei todos os repositórios pois meu nome constava nos commits.
 
 ## GitHub Stats
 
